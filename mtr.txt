@@ -1,0 +1,18 @@
+3. nyk-b5-link.telia.net                                                                                                          0.0%    21    0.3   1.0   0.3  13.2   2.8
+ 4. nyk-bb1-link.telia.net                                                                                                         0.0%    21    0.3   4.8   0.3  36.7  10.1
+ 5. las-b3-link.telia.net                                                                                                          0.0%    21   87.3  88.3  87.2  99.2   2.7
+    las-b21-link.telia.net
+    las-b3-link.telia.net
+    las-b3-link.telia.net
+    las-b3-link.telia.net
+    las-b21-link.telia.net
+    las-b21-link.telia.net
+ 6. colocrossing-ic-317204-las-b3.c.telia.net                                                                                     15.0%    21   87.4  88.1  86.8 104.0   4.1
+    colocrossing-ic-317205-las-b3.c.telia.net
+    las-b3-link.telia.net
+    las-b3-link.telia.net
+ 7. colocrossing-ic-317205-las-b3.c.telia.net                                                                                     45.0%    21   87.3  87.3  86.8  88.0   0.4
+    23-94-116-26-host.colocrossing.com
+    colocrossing-ic-317204-las-b3.c.telia.net
+ 8. 23.236.241.157                                                                                                                50.0%    21   87.8  88.0  87.3  91.4   1.2
+    23-94-116-26-host.colocrossing.com
