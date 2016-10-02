@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html ng-app="App">
+  <head>
+    <meta charset="utf-8">
+    <script src="angular.min.js"></script>
+    <script src="app.js"></script>
+    <title>Kitties</title>
+  </head>
+  <body>
+    <h1>Kitties</h1>
+      <div ng-controller="MsgController">
+        {{sayMessage()}}
+        <div>
+          <button ng-click="moreKitty()">More kitties</button>
+          <br>
+          <img ng-src="http://kurld.com/image.php?pic=/images/kitty%20pictures/kitty%20pictures-{{kitty_number}}.jpg">
+        </div>
+      </div>
+  </body>
+</html>
